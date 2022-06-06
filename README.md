@@ -3,6 +3,4 @@
 
 ![Screenshot](fitlife-screenshot.png)
 
-https://fitlife-app.netlify.app/
-
 Made with React and Firebase.
